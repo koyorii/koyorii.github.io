@@ -400,7 +400,10 @@ margin: 3% 0;
 }
 
 .gallery-box{
-	margin: 0 auto;
+    padding: 0 0.8% 1% 0;
+	float:left;
+    flex:25%;
+	max-width: 25%;
 }
 
 .test{
